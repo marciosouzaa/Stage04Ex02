@@ -21,7 +21,6 @@ const students = [
   }
 ]
 
-let averageStudents = []
 let average
 
 for (let student of students) {
